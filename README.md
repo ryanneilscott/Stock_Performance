@@ -1,4 +1,4 @@
-# Stock_Performance
-This is a python project for the IBM Data Science Professional Certificate where
-I am analyzing Stock Performance and building a Dashboard by extracting data using 
-webscrapping and organizing it into a data frame
+# Tesla_Stock_Performance
+This is a python project where I am practicing webscraping data for 
+Tesla stock. I use the Yahoo yFinance API to extract ticker data and
+webscraping data from a website using requests and BeautifulSoup libraries.
